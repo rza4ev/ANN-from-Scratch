@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4c7e6db-3870-412f-bfd6-0fdeccea761f)# ANN-from-Scratch
+ANN-from-Scratch
 In this post, I’ll walk you through the essential mathematical formulas behind training a neural network using forward and backward propagation, Xavier initialization, and the Adam optimizer.
 Xavier Initialization: Proper weight initialization plays a crucial role in training deep networks. Xavier Initialization sets the weights based on the size of the input and output layers to help prevent vanishing/exploding gradients.
 
